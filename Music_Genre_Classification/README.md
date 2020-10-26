@@ -27,7 +27,7 @@ The dataset can be downloaded from [this link](https://www.kaggle.com/andradaolt
  * rock
 
 Each Genre has 50 audio files. All audio files are 30 seconds long and have a .wav extension.
-The dataset has been processed using the __processData.py__ file. This file creates 10 segments from each audio file converts it into it's corresponding mfcc vector using the __librosa__ library. These vectors are stored in a dictionary along with the right labels. This dictionary is futhur converted into a json file.
+The dataset has been processed using the __processData.py__ file. This file creates 10 segments from each audio file and converts it into it's corresponding mfcc vector using the __librosa__ library. These vectors are stored in a dictionary along with the right labels. This dictionary is furthur converted into a json file.
 
 ### Models
 This project consists of 3 models:
