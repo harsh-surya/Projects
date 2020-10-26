@@ -1,7 +1,7 @@
 # Hand Gesture Detection using Neural Networks and Computer Vision
 
 ## About the project
-This project implements a hand recognition and a hand gesture recongnition system using neural networks and Computer Vision. The human hand gestures are detected using a classic CNN classification approach whereas the human hand itself is detected by creating binary masks using OpenCV. Also pyautogui has been used to control different mouse and keyboard operations using the different detected gestures.
+This project implements a hand recognition and a hand gesture recognition system using neural networks and Computer Vision. The human hand gestures are detected using a classic CNN classification approach whereas the human hand itself is detected by creating binary masks using OpenCV. Also pyautogui has been used to control different mouse and keyboard operations using the different detected gestures.
 
 ## Requirements
 
